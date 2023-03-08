@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "age": 32,
+        "email": "john.smith@example.com",
+        "phone_number": "(123) 456-7890"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "age": 27,
+        "email": "jane.doe@example.com",
+        "phone_number": "(234) 567-8901"
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "age": 45,
+        "email": "bob.johnson@example.com",
+        "phone_number": "(345) 678-9012"
+    },
+    {
+        "id": 4,
+        "name": "Alice Brown",
+        "age": 29,
+        "email": "alice.brown@example.com",
+        "phone_number": "(456) 789-0123"
+    },
+    {
+        "id": 5,
+        "name": "Michael Lee",
+        "age": 38,
+        "email": "michael.lee@example.com",
+        "phone_number": "(567) 890-1234"
+    },
+    {
+        "id": 6,
+        "name": "Karen Chen",
+        "age": 31,
+        "email": "karen.chen@example.com",
+        "phone_number": "(678) 901-2345"
+    },
+    {
+        "id": 7,
+        "name": "David Kim",
+        "age": 25,
+        "email": "david.kim@example.com",
+        "phone_number": "(789) 012-3456"
+    },
+    {
+        "id": 8,
+        "name": "Samantha Lee",
+        "age": 33,
+        "email": "samantha.lee@example.com",
+        "phone_number": "(890) 123-4567"
+    },
+    {
+        "id": 9,
+        "name": "Tom Wilson",
+        "age": 42,
+        "email": "tom.wilson@example.com",
+        "phone_number": "(901) 234-5678"
+    },
+    {
+        "id": 10,
+        "name": "Emily Zhang",
+        "age": 28,
+        "email": "emily.zhang@example.com",
+        "phone_number": "(012) 345-6789"
+    }
+]
